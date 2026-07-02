@@ -1,0 +1,3 @@
+C:/Users/gupta/OneDrive/Desktop/WireScope/build/CMakeFiles/WireScope.dir
+C:/Users/gupta/OneDrive/Desktop/WireScope/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/gupta/OneDrive/Desktop/WireScope/build/CMakeFiles/ZERO_CHECK.dir
