@@ -260,7 +260,7 @@ WireScope input.pcap output.pcap --block-ip 192.168.1.10
 
 ---
 
-# Screenshots
+<!-- # Screenshots
 
 > Add screenshots of:
 >
@@ -269,7 +269,7 @@ WireScope input.pcap output.pcap --block-ip 192.168.1.10
 > - Architecture diagram
 > - Example output
 
----
+--- -->
 
 # Author
 
@@ -287,7 +287,7 @@ MIT License
 
 Copyright (c) 2026 Akriti Gupta
 
-
+<!-- 
 ## Appendix 1
 
 This section can document implementation details, benchmarks, protocol notes, design decisions, testing methodology, or future enhancements related to WireScope module 1.
@@ -485,4 +485,4 @@ This section can document implementation details, benchmarks, protocol notes, de
 
 ## Appendix 40
 
-This section can document implementation details, benchmarks, protocol notes, design decisions, testing methodology, or future enhancements related to WireScope module 40.
+This section can document implementation details, benchmarks, protocol notes, design decisions, testing methodology, or future enhancements related to WireScope module 40. -->
